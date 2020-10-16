@@ -1,0 +1,20 @@
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\lab1COS.csprojAssemblyReference.cache
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\lab1COS.csproj.GenerateResource.cache
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\lab1COS.csproj.CoreCompileInputs.cache
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\4_KURS\ЦОС\lab1\WindowsForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\bin\Debug\WindowsFormsApp1.exe.config
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\bin\Debug\WindowsFormsApp1.exe
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\bin\Debug\WindowsFormsApp1.pdb
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\lab1COS.csprojAssemblyReference.cache
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\lab1COS.csproj.GenerateResource.cache
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\lab1COS.csproj.CoreCompileInputs.cache
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\WindowsFormsApp1.exe
+F:\LEONId\Leonid\Учёба\4 курс\ЦОС\Laba1COS-master\obj\Debug\WindowsFormsApp1.pdb
